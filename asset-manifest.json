@@ -1,12 +1,15 @@
 {
   "files": {
+    "main.css": "/netkorea/static/css/main.512985be.css",
     "main.js": "/netkorea/static/js/main.af53e12b.js",
     "static/js/453.c9c21943.chunk.js": "/netkorea/static/js/453.c9c21943.chunk.js",
     "index.html": "/netkorea/index.html",
+    "main.512985be.css.map": "/netkorea/static/css/main.512985be.css.map",
     "main.af53e12b.js.map": "/netkorea/static/js/main.af53e12b.js.map",
     "453.c9c21943.chunk.js.map": "/netkorea/static/js/453.c9c21943.chunk.js.map"
   },
   "entrypoints": [
+    "static/css/main.512985be.css",
     "static/js/main.af53e12b.js"
   ]
 }
